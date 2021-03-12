@@ -2,7 +2,7 @@
 <manifest>
   <project path="device/xiaomi/raphael" name="sailfish-raphael/device_xiaomi_raphael" revision="hybris-16.0" />
   <project path="vendor/xiaomi/raphael" name="sailfish-raphael/vendor_xiaomi_raphael" revision="lineage-16.0" />
-  <project path="kernel/xiaomi/raphael" name="Sailfish-OS-on-Raphael/kernel_xiaomi_sm8150" revision="hybris-16.0" />
+  <project path="kernel/xiaomi/raphael" name="sailfish-raphael/kernel_xiaomi_sm8150" revision="hybris-16.0" />
   <project path="rpm/" name="sailfish-raphael/droid-hal-raphael" revision="master" />
   <project path="hybris/droid-configs" name="sailfish-raphael/droid-config-raphael" revision="master" />
   <project path="hybris/droid-hal-version-raphael" name="sailfish-raphael/droid-hal-version-raphael" revision="master" />
